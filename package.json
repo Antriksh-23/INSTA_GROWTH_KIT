@@ -1,0 +1,21 @@
+{
+  "name": "insta-growth-kit",
+  "version": "1.0.0",
+  "description": "End-to-end small-business Instagram comment-to-lead automation system",
+  "private": true,
+  "scripts": {
+    "test": "npm --prefix worker test",
+    "test:watch": "npm --prefix worker run test:watch",
+    "dev": "npm --prefix worker run dev",
+    "deploy": "npm --prefix worker run deploy",
+    "typecheck": "npm --prefix worker run typecheck"
+  },
+  "keywords": [
+    "instagram",
+    "automation",
+    "cloudflare-workers",
+    "gemini-api"
+  ],
+  "author": "",
+  "license": "ISC"
+}

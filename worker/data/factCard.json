@@ -1,0 +1,45 @@
+{
+  "product_name": "WHOOP 5.0",
+  "brand": "WHOOP",
+  "tiers": {
+    "whoop_one": {
+      "name": "WHOOP One",
+      "price": "₹20,890",
+      "mrp": "₹21,990",
+      "includes": ["WHOOP 5.0 Device", "Basic Charger (corded)", "CoreKnit Jet Black Band", "12-month Core Membership"],
+      "best_for": "Core, professional-grade fitness, sleep, and recovery metrics"
+    },
+    "whoop_peak": {
+      "name": "WHOOP Peak",
+      "price": "₹27,539",
+      "mrp": "₹28,990",
+      "includes": ["WHOOP 5.0 Device", "Wireless PowerPack", "SuperKnit Obsidian Band", "Advanced Longevity Tracking"],
+      "best_for": "Long-term health, biological aging, and advanced real-time vitals"
+    }
+  },
+  "price": "Starting at ₹20,890 (WHOOP One) / ₹27,539 (WHOOP Peak)",
+  "offer": "Up to 6 months No-Cost EMI available — MRP savings up to ₹1,451!",
+  "key_benefits": [
+    "Screen-free 24/7 wearable — no distractions, ever",
+    "14+ days battery life with waterproof wireless PowerPack charging",
+    "Core Four Metrics: Strain, Recovery, Sleep, and Stress tracking",
+    "AI WHOOP Coach — hyper-personalized health recommendations",
+    "Any-Wear™ Technology — wear it on your wrist, arm, or with apparel",
+    "VO2 Max, HRV, heart rate zones, and menstrual cycle insights"
+  ],
+  "advanced_features": [
+    "Healthspan with WHOOP Age — tracks your Pace of Aging",
+    "Real-time stress monitoring with actionable tools",
+    "Lab-level sleep analysis: stages, efficiency, disturbances, sleep debt",
+    "Silent haptic alarm — wake without disturbing anyone"
+  ],
+  "delivery": "Ships across India via whoop.in. Standard delivery timelines apply.",
+  "cod_available": false,
+  "payment_options": "No-Cost EMI up to 6 months; GST invoice available at checkout",
+  "location": "Available online at whoop.in and select retail partners across India",
+  "contact": "DM us or visit https://www.whoop.in/",
+  "timings": "Online store — available 24/7",
+  "instagram_handle": "@whoop",
+  "website": "https://www.whoop.in/",
+  "return_policy": "Check whoop.in for current return and warranty policy"
+}

@@ -1,0 +1,14 @@
+name = "insta-growth-kit"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[triggers]
+crons = ["* * * * *"]
+
+[[kv_namespaces]]
+binding = "REPLY_STORE"
+id = "<your-kv-namespace-id>"
+
+[vars]
+MEDIA_ID = "<reel-media-id>"
+LEAD_SHEET_ID = "<google-sheet-id>"
