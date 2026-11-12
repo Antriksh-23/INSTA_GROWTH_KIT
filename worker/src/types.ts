@@ -99,4 +99,7 @@ export interface Env {
   INSTAGRAM_ACCESS_TOKEN: string;
   GEMINI_API_KEY: string;
   GOOGLE_SERVICE_ACCOUNT_JSON: string;
+
+  // Optional Meta Webhook verification token
+  INSTAGRAM_VERIFY_TOKEN?: string;
 }

@@ -10,5 +10,5 @@ binding = "REPLY_STORE"
 id = "<your-kv-namespace-id>"
 
 [vars]
-MEDIA_ID = "<reel-media-id>"
-LEAD_SHEET_ID = "<google-sheet-id>"
+MEDIA_ID = "18042938491024821"
+LEAD_SHEET_ID = "1VMe2-PPGwRPA6n4BGDFT87unLVGIagP6G_GvRpoJu6E"

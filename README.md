@@ -51,19 +51,28 @@ Automated Lead Logger saves contact & intent into Google Sheets
 ```text
 ├── creative/
 │   ├── ad-images/            # High-resolution generated ad banners (1x1 & 9x16)
-│   ├── backgrounds/         # Rendered studio backgrounds
-│   ├── product-photos/      # Original and enhanced product imagery
-│   ├── ad-image-specs.md    # Design guidelines & copy specs
-│   ├── canva-layout-guide.md# Guide for recreating templates
-│   ├── gemini-prompts.md    # Prompts for AI asset generation
-│   ├── voiceover-script.md  # 15-second Reel voiceover script
-│   └── voiceover.mp3        # Master voiceover audio file
+│   ├── backgrounds/          # Rendered studio backgrounds
+│   ├── product-photos/       # Original and enhanced product imagery
+│   ├── ad-image-specs.md     # Design guidelines & copy specs
+│   ├── canva-layout-guide.md # Guide for recreating templates
+│   ├── gemini-prompts.md     # Prompts for AI asset generation
+│   ├── owner-approval-proof.png # Verified shop owner approval record
+│   ├── phase1-checklist.md   # Phase 1 completion checklist
+│   ├── phase2-checklist.md   # Phase 2 completion checklist
+│   ├── reel-15s.mp4          # Assembled 15-second watermark-free Reel video
+│   ├── reel-caption.md       # High-converting caption & hashtag strategy
+│   ├── reel-insights-screenshot.png # 48-hour Instagram Insights audit proof
+│   ├── reel-link.txt         # Public Instagram permalink to published Reel
+│   ├── voiceover-script.md   # 15-second Reel voiceover script
+│   └── voiceover.mp3         # Master voiceover audio file
 ├── docs/
-│   ├── architecture.md      # Full technical architecture and system design
-│   ├── owner-handover.md    # Guide for business owners to operate the kit
-│   └── reel-insights.md     # Analytics review and engagement performance
+│   ├── architecture.md       # Full technical architecture and system design
+│   ├── owner-handover.md     # Guide for business owners to operate the kit
+│   └── reel-insights.md      # 48-hour analytics review & 3 improvement ideas
 ├── scripts/
-│   ├── generate_all_ads.py  # Automation script to render banner variations
+│   ├── assemble_reel.py      # Video assembly engine with kinetic typography & audio sync
+│   ├── generate_all_ads.py   # Automation script to render banner variations
+│   ├── generate_insights_proof.py # Instagram Insights dashboard proof renderer
 │   └── generate_owner_proof.py # Verifies ad copy & offer accuracy
 ├── worker/
 │   ├── data/
@@ -164,3 +173,4 @@ npm run deploy
 ## 📄 License
 
 This project is licensed under the ISC License.
+

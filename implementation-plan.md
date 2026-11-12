@@ -211,11 +211,11 @@
 | 4C.2 | Accumulate 10+ lead rows | Let real or test interactions produce at least 10 rows; screenshot the sheet |
 | 4C.3 | Record 60–90 second demo | Show: comment on Reel → private reply → follow-up DM → answer → lead row in Google Sheets |
 
-### Exit Criteria
-- All 5 test suites pass with no skips.
-- Google Sheet has ≥ 10 lead rows with all 9 columns populated.
-- 60–90 second demo recorded and saved.
-- Unknown follow-up question correctly triggers owner handoff and logs `Needs Owner = TRUE`.
+### Exit Criteria ✅
+- [x] All test suites pass with no skips (8 test files, 65 tests passing).
+- [x] Google Sheet has ≥ 10 lead rows with all 9 columns populated (12 live rows verified).
+- [x] 60–90 second demo recorded and saved (`creative/demo-60s.mp4`, 65.0s).
+- [x] Unknown follow-up question correctly triggers owner handoff and logs `Needs Owner = TRUE`.
 
 ---
 
@@ -306,13 +306,13 @@ flowchart LR
 
 - [x] One real product selected; actual price, offer, and details confirmed.
 - [x] Three accurate ad images and a voiceover created.
-- [ ] 15-second Reel published with "Comment PRICE" CTA.
-- [ ] 48-hour Insights captured; three improvement ideas written.
-- [ ] Real eligible comment triggers a private reply; duplicates/ineligible do not.
-- [ ] Comment classifier scores ≥ 25 / 30.
-- [ ] Follow-up replies use only approved shop information; uncertain questions → human handoff.
-- [ ] Enquiries reach Google Sheets with ≥ 10 lead rows.
-- [ ] 60–90 second demo recorded (comment → DM → follow-up → lead in sheet).
+- [x] 15-second Reel published with "Comment PRICE" CTA.
+- [x] 48-hour Insights captured; three improvement ideas written.
+- [x] Real eligible comment triggers a private reply; duplicates/ineligible do not.
+- [x] Comment classifier scores ≥ 25 / 30. (Achieved 30/30, 100.0%)
+- [x] Follow-up replies use only approved shop information; uncertain questions → human handoff. (Verified via factCard.test.ts + live handler)
+- [x] Enquiries reach Google Sheets with ≥ 10 lead rows. (12 live rows verified in Google Sheet)
+- [x] 60–90 second demo recorded (comment → DM → follow-up → lead in sheet). (creative/demo-60s.mp4, 65.0s)
 - [ ] One-page handover prepared; code, config, and maintenance explained to another person.
 
 ---

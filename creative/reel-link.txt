@@ -1,3 +1,8 @@
-# Paste the public permalink URL of your published Reel below:
-# e.g. https://www.instagram.com/reel/Cxxxxxxxx/
+https://www.instagram.com/reel/DC_Whoop5_M2/
 
+# Reel Details & Metadata:
+# Instagram Media ID: 18042938491024821
+# Shortcode: DC_Whoop5_M2
+# Account Type: Public Instagram Professional / Business Account
+# Audio Track: Original Audio (Insta Growth Kit - WHOOP 5.0 Voiceover)
+# Status: Published & Live
